@@ -24,3 +24,9 @@ const myfunction = function () {
 }
 
 console.log(typeof heroes); // Array Datatype is Object
+
+
+
+// ******************* Memory *******************
+
+// Stack (Primitive), Heap (Non-Primitive)
